@@ -1,10 +1,10 @@
 
 ## Overview
-- The public repository, "Downloaded-Datasets" is a repository containing exsisting datasets searched and downloaded across Kaggle for use to train ML models.
+- "Downloaded-Datasets" is a repository containing exsisting datasets searched and downloaded across Kaggle for use to train ML models.
 
 ## Data source
-https://www.kaggle.com/
-**Note:** These datasets are not under my ownership. Please see the original source for licensing details.
+- https://www.kaggle.com/
+- **Note:** These datasets are not under my ownership. Please see the original source for licensing details.
 
 --------------------------------------------------------------------------------------------------------------------------
 
